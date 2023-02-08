@@ -3,7 +3,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=kawasaji&label=Profile%20views&color=0e75b6&style=flat" alt="kawasaji" /> 
   <a href="">
-    <img title="test" src="https://img.shields.io/static/v1?label=telegram&message=kawasaji&color=blueviolet">
+    <img title="test" src="https://img.shields.io/static/v1?label=telegram&message=kawasaji&color=blueviolet?style=flat-square&logo=appveyor">
   </a>
   <a href="https://instagram.com/kawasaji_" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kawasaji_" height="30" width="40" />
