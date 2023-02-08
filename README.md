@@ -10,8 +10,8 @@
     <img title="test" src="https://img.shields.io/badge/instagram-kawasaji_-green?logo=instagram&color=red&amp;style=flat">
   </a>
   <a href="https://www.behance.net/jimmykawasaji" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jimmykawasaji" height="30" width="40" />
-    <img title="test" src="https://img.shields.io/badge/behance-kawasaji-green?logo=behance&color=blueviolent&amp;style=flat">
+    
+    <img title="test" src="https://img.shields.io/badge/behance-kawasaji-green?logo=behance&color=blueviolet&amp;style=flat">
   </a> 
 </p>
 
