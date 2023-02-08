@@ -11,6 +11,7 @@
   </a>
   <a href="https://www.behance.net/jimmykawasaji" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jimmykawasaji" height="30" width="40" />
+    <img title="test" src="https://img.shields.io/badge/behance-kawasaji-green?logo=behance&color=blueviolent&amp;style=flat">
   </a> 
 </p>
 
@@ -25,7 +26,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kawasaji&theme=dark&include_all_commits=true&show_icons=true&ring_color=78FE96" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawasaji&langs_count=8&hide=javascript,html,dockerfile,shell,c,cmake,css&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawasaji&langs_count=8&hide=javascript,html,dockerfile,shell,c,cmake,css,procfile&theme=dark" />
 </a>
 
 <hr>
