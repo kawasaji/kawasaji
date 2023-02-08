@@ -21,4 +21,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawasaji&label=Profile%20views&color=0e75b6&style=flat" alt="kawasaji" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kawasaji" alt="kawasaji" /></a> </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/kawasaji_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kawasaji_" height="30" width="40" /></a>
+<a href="https://www.behance.net/jimmykawasaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jimmykawasaji" height="30" width="40" /></a>
+</p>
