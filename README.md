@@ -10,8 +10,7 @@
     <img title="test" src="https://img.shields.io/badge/instagram-kawasaji_-green?logo=instagram&color=red&amp;style=flat">
   </a>
   <a href="https://www.behance.net/jimmykawasaji" target="blank">
-    
-    <img title="test" src="https://img.shields.io/badge/behance-kawasaji-green?logo=behance&color=blueviolet&amp;style=flat">
+    <img title="test" src="https://img.shields.io/badge/behance-kawasaji-green?logo=behance&color=purple&amp;style=flat">
   </a> 
 </p>
 
