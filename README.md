@@ -1,9 +1,9 @@
 <img src="banner.png" alt="Girl in a jacket" >
-
+<!--> [https://img.shields.io/static/v1?label=telegram&message=kawasaji&color=blueviolet?style=flat-square?logo=telegram_kawasaji] -->
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=kawasaji&label=Profile%20views&color=0e75b6&style=flat" alt="kawasaji" /> 
   <a href="t.me/kawasaji">
-    <img title="test" src="[https://img.shields.io/static/v1?label=telegram&message=kawasaji&color=blueviolet?style=flat-square?logo=telegram_kawasaji](https://img.shields.io/badge/telegram-kawasaji-green?logo=telegram_kawasaji&amp;style=flat-square)">
+    <img title="test" src="https://img.shields.io/badge/telegram-kawasaji-green?logo=telegram_kawasaji&amp;style=flat-square">
     
   </a>
   <a href="https://instagram.com/kawasaji_" target="blank">
