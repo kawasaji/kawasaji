@@ -3,9 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawasaji&label=Profile%20views&color=0e75b6&style=flat" alt="kawasaji" /> <a href="https://instagram.com/kawasaji_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kawasaji_" height="30" width="40" /></a>
 <a href="https://www.behance.net/jimmykawasaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jimmykawasaji" height="30" width="40" /></a> </p>
 
-<p align="left">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kawasaji&" alt="kawasaji" /></p>
-</p>
 
 <hr>
 
@@ -24,3 +21,4 @@
 
 
 
+https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white
